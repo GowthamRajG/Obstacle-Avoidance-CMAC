@@ -10,3 +10,4 @@ The keyboard control has been implemented through input() function of Python. Ke
 
 The robot can wander while actively avoiding the collisions.
 
+The concept was built upon Nikolai K's videos on V-REP and Python.
